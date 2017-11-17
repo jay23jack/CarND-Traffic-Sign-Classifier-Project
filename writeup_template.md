@@ -30,6 +30,7 @@ The goals / steps of this project are the following:
 [image9]: ./examples/sun.jpg "Traffic Sign 6"
 [image10]: ./examples/histogram.png "Histogram"
 [image11]: ./examples/sample.png "Sample"
+[image12]: ./examples/conv1.png "Conv1"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -195,5 +196,11 @@ fifth
 |0.000 | No vehicles | 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
+
+This is the visualization of the first convolutional layer.
+
+![alt text][image12]
+
+We can see it clearly extracts features of the image, including the circle and the inner numbers. 
 
 
