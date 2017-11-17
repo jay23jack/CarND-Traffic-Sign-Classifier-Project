@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [image4]: ./examples/speed_limit_30_b.jpg "Traffic Sign 1"
 [image5]: ./examples/pedestrian.jpg "Traffic Sign 2"
 [image6]: ./examples/stop.jpg "Traffic Sign 3"
-[image7]: ./examples/no_entry "Traffic Sign 4"
+[image7]: ./examples/no_entry.jpg "Traffic Sign 4"
 [image8]: ./examples/yield.jpg "Traffic Sign 5"
 [image9]: ./examples/sun.jpg "Traffic Sign 6"
 [image10]: ./examples/histogram.png "Histogram"
