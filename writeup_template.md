@@ -141,6 +141,8 @@ The code for making predictions on my final model is located in the 11th cell of
 
 For the first image
 
+| Probability			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
 |label | Speed limit (30km/h) |
 |1.000 | Speed limit (30km/h) | 
 |0.000 | Speed limit (50km/h) | 
@@ -150,6 +152,8 @@ For the first image
 
 
 For the second image
+| Probability			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
 |label | Pedestrians |
 |0.953 | Speed limit (30km/h) | 
 |0.031 | Speed limit (20km/h) | 
@@ -159,6 +163,8 @@ For the second image
 
 third
 
+| Probability			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
 |label | Stop |
 |1.000 | Priority road | 
 |0.000 | No passing for vehicles over 3.5 metric tons | 
@@ -168,6 +174,8 @@ third
 
 fourth
 
+| Probability			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
 |label | No entry |
 |1.000 | Priority road | 
 |0.000 | No passing for vehicles over 3.5 metric tons | 
@@ -177,6 +185,8 @@ fourth
 
 fifth
 
+| Probability			        |     Prediction	        					| 
+|:---------------------:|:---------------------------------------------:| 
 |label | Yield |
 |0.553 | Yield | 
 |0.423 | Priority road | 
